@@ -1,10 +1,8 @@
 ## Test environments
-* Local Windows 10 R.3.5.3 
+* Local Windows 10 R.4.1.1
 Via RHub: 
-* Debian Linux, R-release, GCC 
 * Windows Server 2008 R2 SP1, R-devel, 32/64 bit
-* macOS 10.11 El Capitan, R-release (experimental)
-* Ubuntu Linux 16.04 LTS, R-release, GCC
+* Ubuntu Linux 20.04.1 LTS, R-release, GCC
 * Fedora Linux, R-devel, clang, gfortran
 
 ## R CMD check results
