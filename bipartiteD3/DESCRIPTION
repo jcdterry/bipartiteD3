@@ -1,7 +1,7 @@
 Package: bipartiteD3
 Type: Package
 Title: Interactive Bipartite Graphs
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: person("Chris", "Terry", email = "christerry3@btinternet.com", role = c("aut", "cre"))
 Description: Generates interactive bipartite graphs using the D3 library.
     Designed for use with the 'bipartite' analysis package.
@@ -19,7 +19,7 @@ Imports:
    tibble (>= 1.4),
    downloader(>= 0.4)
 Depends:
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.1
 Suggests:
    knitr,
    bipartite,
